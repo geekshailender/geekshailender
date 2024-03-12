@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on Modern Web Technologies
 - 📫 How to reach me @geekShailender
-- 😄 Pronouns: Shailender Singh
 - ⚡ Fun fact: Developer may lie but code don't
 
 <!---
