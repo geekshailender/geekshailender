@@ -10,3 +10,5 @@ geekshailender/geekshailender is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 https://medium.com/@geekshailender
+
+<a href="https://app.daily.dev/geekshailender"><img src="https://api.daily.dev/devcards/v2/Fj51zGxbuEIEbRYV27qKg.png?type=default&r=big" width="356" alt="Shailender Singh's Dev Card"/></a>
