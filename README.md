@@ -8,8 +8,8 @@ streamline processes, enhance customer experience, and drive business growth.
 - 👀 I’m currently learning AI.
 - 🌱 I’m interested in full stack development but Angular2.0 is always love
 - 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me @geekShailender 
+- 😄 Pronouns: Shailender Singh
 - ⚡ Fun fact: Developer may lie but code don't
 
 ## 🔧 Tech Stack
