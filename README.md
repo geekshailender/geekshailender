@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @geekshailender
-- 👀 Highly skilled and results-oriented Full Stack Developer with over 11 years of experience in building robust, scalable, and 
+ Hi, I’m Shailender Singh @geekShailender
+👀 Highly skilled and results-oriented Full Stack Developer with over 11 years of experience in building robust, scalable, and 
 user-friendly web applications, particularly for the financial industry. Proven expertise in designing, developing, and deploying 
 credit decisioning engines, digital acquisition tools, and fraud detection solutions. Passionate about leveraging technology to 
 streamline processes, enhance customer experience, and drive business growth.
