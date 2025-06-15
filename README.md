@@ -1,31 +1,24 @@
- Hi, I’m Shailender Singh @geekShailender
- 
- Skilled and results-oriented Full Stack Developer with over 11 years of experience in building robust, scalable, and user-friendly web applications, particularly for the financial industry. 
- Proven expertise in designing, developing, and deploying credit decisioning engines, digital acquisition tools, and fraud detection solutions. Passionate about leveraging technology to 
- streamline processes, enhance customer experience, and drive business growth.
+🚀 Senior Full Stack Technical Lead with 12+ years of experience building robust, scalable, and user-friendly web applications for BFSI, EIS, and Education domains.
 
-## 🚀 About Me
-- 👀 I’m currently learning AI.
-- 🌱 I’m interested in full stack development but Angular2.0 is always love
-- 💞️ I’m looking to collaborate on Application Development
-- 📫 How to reach me @geekShailender 
-- 😄 Pronouns: Shailender Singh
-- ⚡ Fun fact: Developer may lie but code don't
+💡 CORE EXPERTISE:
+- Microservices Architecture & Design Patterns
+- Angular 2-20, MEAN, Redux, TypeScript
+- Java 8-16, Spring Boot, RESTful APIs
+- AWS Cloud Services & DevOps
+- System Design & Scalability Solutions
 
-## 🔧 Tech Stack
-Here are some of the languages and tools I love working with:
+🏆 KEY ACHIEVEMENTS:
+- Subject Matter Expert (SME) at CitiBank NA, building APIs for Digital Account Opening in Digital  and Wealth Services.
+- Developed and enhanced credit decisioning engines using FICO Decision Modeler.
+- Mentored teams of 8-12 developers across multiple projects
+- Implemented BDD for comprehensive test coverage (99%) and reduced software bugs
+- Expert in implementing 12-Factor methodology and SOLID principles
 
-- **Languages:** Typescript, Java, CSS3, JavaScript, Jquery
-- **Frameworks:** Angular, Spring Boot, React, Vue
-- **Databases:** MongoDB, PostgreSQL, Oracle, NoSQL, MySql
-- **Cloud:** AWS, Azure
-- **Testing and Automation Tools:**  Selenium WebDriver, Jest, Karma, Git, Bitbucket, Jenkins, RLM, LightSpeed
-- **Tools:** Git, Docker, VS Code, IntelliJ IDEA
+🎯 CURRENT FOCUS:
+Seeking Technical Lead or Principal Engineer roles where I can leverage my deep experience in microservices, system design, and team leadership to build next-generation scalable applications.
 
-## 📣 Connect with Me
-- 🌐 [Portfolio](https://geekshailender.medium.com/)
-- 📧 [Email](mailto:geekshailender@gmail.com)
-- 🐦 [Twitter](https://x.com/geekshailender)
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/geekshailender/)
+🌟 DOMAINS: BFSI (Banking, Financial Services, Insurance), EIS, EdTech, Enterprise Applications
 
-Thanks for stopping by! 🚀
+Let's connect if you're looking for an experienced technical leader who can architect robust solutions and scale engineering teams! 🤝
+
+#Java #SpringBoot #Microservices #Angular #TechnicalLeadership #SystemDesign
