@@ -1,24 +1,21 @@
-🚀 Senior Full Stack Technical Lead with 12+ years of experience building robust, scalable, and user-friendly web applications for BFSI, EIS, and Education domains.
+🚀 Senior Full Stack Technical Lead | 12+ Years Architecting Scalable Solutions for BFSI, EdTech & Enterprise Applications
 
 💡 CORE EXPERTISE:
-- Microservices Architecture & Design Patterns
-- Angular 2-20, MEAN, Redux, TypeScript
-- Java 8-16, Spring Boot, RESTful APIs
-- AWS Cloud Services & DevOps
-- System Design & Scalability Solutions
+  
+    Microservices Architecture & System Design: Expert in designing highly scalable, resilient, and performant distributed systems.
+    Full Stack Development: Deep proficiency in Angular (2-20), MEAN Stack, Redux, TypeScript for front-end, and Java (8-16), Spring Boot, RESTful APIs for robust back-end services.
+    Cloud & DevOps: Hands-on experience with AWS Cloud Services, Docker, Kubernetes, CI/CD for seamless deployments.
 
 🏆 KEY ACHIEVEMENTS:
-- Subject Matter Expert (SME) at CitiBank NA, building APIs for Digital Account Opening in Digital  and Wealth Services.
-- Developed and enhanced credit decisioning engines using FICO Decision Modeler.
-- Mentored teams of 8-12 developers across multiple projects
-- Implemented BDD for comprehensive test coverage (99%) and reduced software bugs
-- Expert in implementing 12-Factor methodology and SOLID principles
 
-🎯 CURRENT FOCUS:
-Seeking Technical Lead or Principal Engineer roles where I can leverage my deep experience in microservices, system design, and team leadership to build next-generation scalable applications.
+    Subject Matter Expert (SME) at CitiBank NA for Digital Account Opening APIs, driving critical financial services initiatives.
+    Developed and enhanced credit decisioning engines using FICO Decision Modeler, optimizing financial workflows.
+    Mentored and led high-performing teams of 8-12 developers, fostering technical growth and project success.
+    Achieved 99% comprehensive test coverage via BDD, significantly reducing software bugs and improving quality.
+    Pioneered the adoption of 12-Factor Methodology and SOLID principles for maintainable and scalable codebases.
 
-🌟 DOMAINS: BFSI (Banking, Financial Services, Insurance), EIS, EdTech, Enterprise Applications
+🎯 CURRENT FOCUS: Seeking Technical Lead or Principal Engineer roles to leverage extensive experience in microservices, system design, and team leadership to build next-generation scalable                         applications.
 
 Let's connect if you're looking for an experienced technical leader who can architect robust solutions and scale engineering teams! 🤝
 
-#Java #SpringBoot #Microservices #Angular #TechnicalLeadership #SystemDesign
+#Java #SpringBoot #Microservices #Angular #TechnicalLeadership #SystemDesign #AWS #FinTech #EdTech
