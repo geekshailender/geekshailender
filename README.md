@@ -1,9 +1,9 @@
 🚀 Senior Full Stack Technical Lead | 12+ Years Architecting Scalable Solutions for BFSI, EdTech & Enterprise Applications
 
 💡 CORE EXPERTISE:
-  
+
     Microservices Architecture & System Design: Expert in designing highly scalable, resilient, and performant distributed systems.
-    Full Stack Development: Deep proficiency in Angular (2-20), MEAN Stack, Redux, TypeScript for front-end, and Java (8-16), Spring Boot, RESTful APIs for robust back-end services.
+    Full Stack Development: Deep proficiency in Angular (2-20), MEAN Stack, Redux, TypeScript for front-end, and Java (8-16), Spring Boot.
     Cloud & DevOps: Hands-on experience with AWS Cloud Services, Docker, Kubernetes, CI/CD for seamless deployments.
 
 🏆 KEY ACHIEVEMENTS:
