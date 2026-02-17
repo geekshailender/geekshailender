@@ -1,21 +1,17 @@
-🚀 Senior Full Stack Technical Lead | 12+ Years Architecting Scalable Solutions for BFSI, EdTech & Enterprise Applications
+Senior Engineer / Architect | Decisioning & Risk Platforms | Python • AI/ML• MEAN
 
-💡 CORE EXPERTISE:
+I am a Senior Full Stack Engineer and Technical Lead with over a decade of experience delivering scalable, secure, and high-performance platforms for the financial services industry.My expertise spans modern front-end engineering, cloud-native backend systems, and the growing integration of AI-powered decisioning into enterprise applications.  
+I specialize in transforming complex business and risk requirements into robust, production-ready technology solutions.
 
-    Microservices Architecture & System Design: Expert in designing highly scalable, resilient, and performant distributed systems.
-    Full Stack Development: Deep proficiency in Angular (2-20), MEAN Stack, Redux, TypeScript for front-end, and Java (8-16), Spring Boot.
-    Cloud & DevOps: Hands-on experience with AWS Cloud Services, Docker, Kubernetes, CI/CD for seamless deployments.
+I have strong hands-on experience across:     
 
-🏆 KEY ACHIEVEMENTS:
+Modern UI platforms using Angular, React, and TypeScript     
+Cloud-native microservices with Node.js and Python (FastAPI / Django)     
+Digital acquisition, credit risk, underwriting, and fraud ecosystems     
+Kubernetes, containerization, CI/CD, and AWS architectures     
+Building APIs and platforms that are scalable, observable, and secure 
 
-    Subject Matter Expert (SME) at CitiBank NA for Digital Account Opening APIs, driving critical financial services initiatives.
-    Developed and enhanced credit decisioning engines using FICO Decision Modeler, optimizing financial workflows.
-    Mentored and led high-performing teams of 8-12 developers, fostering technical growth and project success.
-    Achieved 99% comprehensive test coverage via BDD, significantly reducing software bugs and improving quality.
-    Pioneered the adoption of 12-Factor Methodology and SOLID principles for maintainable and scalable codebases.
-
-🎯 CURRENT FOCUS: Seeking Technical Lead or Principal Engineer roles to leverage extensive experience in microservices, system design, and team leadership to build next-generation scalable                         applications.
-
-Let's connect if you're looking for an experienced technical leader who can architect robust solutions and scale engineering teams! 🤝
+I am particularly interested in opportunities involving:
+AI-enabled financial platforms intelligent underwriting fraud detection
 
 #Java #SpringBoot #Microservices #Angular #TechnicalLeadership #SystemDesign #AWS #FinTech #EdTech
