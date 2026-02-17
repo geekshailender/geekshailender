@@ -14,4 +14,4 @@ Building APIs and platforms that are scalable, observable, and secure
 I am particularly interested in opportunities involving:
 AI-enabled financial platforms intelligent underwriting fraud detection
 
-#Java #SpringBoot #Microservices #Angular #TechnicalLeadership #SystemDesign #AWS #FinTech #EdTech
+#Angular #TechLead #SystemDesign #Typescript/Javascript #FinTech #Python #FastAPI #FICO DMP
